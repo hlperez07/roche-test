@@ -1,0 +1,13 @@
+
+    {
+       "id":"cidre-ecusson",
+       "name":"Ecusson - Cidre de récoltant doux",
+       "type":"Blanc",
+       "appellation":{
+          "name":"Cidre de Normandie",
+          "region":"Normandie"
+       },
+       "grapes":[
+          "Pomme"
+       ]
+    }
